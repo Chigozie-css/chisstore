@@ -3,10 +3,6 @@ body {
     font-family: "roboto", sans-serif;
 }
 
-html }{
-    height: -webkit-fill-available;
-}
-
 .signup-box {
     width: 360px;
     height: 620px;
@@ -14,7 +10,6 @@ html }{
     background-color: white;
     border-radius: 10px;
     transition: all ease 0.2s;
-    height: -webkit-fill-available;
 }
 
 
